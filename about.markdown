@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About the D2D Toolbox
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The D2D Toolbox is a platform developed at ITT Th-Koeln for Integrated Water Resources Management (IWRM), Renewable Energy Management (REM), and Natural Resources Management (NRM). This toolbox provides access to various data sources and tools to support research and decision-making processes.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Our Mission
 
+To provide a comprehensive and accessible platform for researchers and practitioners in the fields of IWRM, REM, and NRM.
 
-[jekyll-organization]: https://github.com/jekyll
+## Contact Us
+
+For more information, please contact [Bilal Al-Saeedi](mailto:bilal.al-saeedi@th-koeln.de).
