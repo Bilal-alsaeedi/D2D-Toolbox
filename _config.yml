@@ -1,68 +1,44 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: D2D Toolbox
 email: bilal.al-saeedi@th-koeln.de
-description: >- # this means to ignore newlines until "baseurl:"
-  A comprehensive toolbox for IWRM, REM, and NRM at ITT Th-Koeln.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+description: A comprehensive toolbox for IWRM, REM, and NRM at ITT Th-Koeln.
+baseurl: "/D2D-Toolbox" # For project sites, use the repository name
+url: "https://bilal-saeedi.github.io" # Replace with your GitHub username
 
-# Build settings
-remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
-
+# Theme settings
+theme: remote_theme: just-the-docs/just-the-docs
+# Plugins
 plugins:
   - jekyll-feed
 
 # Navigation settings
 nav:
   - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Data Analysis
-    url: /data-analysis/
-  - title: Hydrology
-    url: /hydrology/
-  - title: Land Use
-    url: /land-use/
-  - title: Socio-Economic
-    url: /socio-economic/
+    url: /
+  - title: Public Domain Data
+    url: /public-domain-data/
+  - title: Modules
+    url: /modules/
+    children:
+      - title: IWRM
+        url: /modules/iwrm/
+        children:
+          - title: Watershed
+            url: /modules/iwrm/watershed/
+          - title: Water and Agriculture
+            url: /modules/iwrm/water-and-agriculture/
+      - title: NRM
+        url: /modules/nrm/
+      - title: REM
+        url: /modules/rem/
+  - title: About
+    url: /about/
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+
+# Exclude from processing
 exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
-  - Gemfile
-  - Gemfile.lock
   - node_modules/
   - vendor/bundle/
   - vendor/cache/

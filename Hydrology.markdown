@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Hydrology
-permalink: /hydrology/
+title: Hydrometeorology
+permalink: /Hydrometeorology/
+parent: Watershed Management
 nav_order: 3
 ---
 
-# Hydrology
+# Hydrometeorology
 
-Content related to hydrology goes here. This section can include data sources, tools, and research related to water resources management.
+Content related to Hydrometeorology goes here. This section can include data sources, tools, and research related to water resources management.
 
 ## Data Sources
 

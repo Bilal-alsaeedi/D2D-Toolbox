@@ -2,7 +2,8 @@
 layout: page
 title: Socio-Economic
 permalink: /socio-economic/
-nav_order: 5
+parent : Watershed Management
+nav_order: 4
 ---
 
 # Socio-Economic

@@ -14,4 +14,5 @@ To provide a comprehensive and accessible platform for researchers and practitio
 
 ## Contact Us
 
-For more information, please contact [Bilal Al-Saeedi](mailto:bilal.al-saeedi@th-koeln.de).
+For more information, please contact Bilal Al-Saeedi
+(bilal.al-saeedi@th-koeln.de).
