@@ -23,7 +23,7 @@ Water infrastructure plays a vital role in sustaining communities, supporting ag
 - **Challenge**: Rapid population growth and urban expansion creating higher water demand
 - **Climate sensitivity**: Projections indicate reduced reliability by 2050
 
-![Cutzamala System Map](/assets/Infra_example.png)
+![Cutzamala System Map](../assets/Infra_example.png)
 
 
 ## 3. Open Source Data (Global)
