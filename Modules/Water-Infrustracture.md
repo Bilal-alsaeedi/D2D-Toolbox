@@ -15,7 +15,6 @@ Water infrastructure plays a vital role in sustaining communities, supporting ag
 
 ![Water Infrastructure Diagram](/assets/infra1.png){:target="_blank"}
 
-![Toolbox Picture 3](/assets/toolboxpicture3.png)
 ## 2. Examples
 
 ### Cutzamala Water System – Mexico City
@@ -26,9 +25,10 @@ Water infrastructure plays a vital role in sustaining communities, supporting ag
 
 ![Cutzamala System Map](/assets/Infra_example.png){:target="_blank"}
 
+
 ## 3. Open Source Data (Global)
-- [Global Power Plant Database](https://datasets.wri.org/dataset/540dcf46-f287-47ac-985d-269b04bea4c6){:target="_blank"}
-- [River networks / Lakes / Wetlands](https://www.hydrosheds.org/products){:target="_blank"}
-- [Roads and railroads](https://www.diva-gis.org/gdata){:target="_blank"}
-- [Dams and reservoirs](https://www.globaldamwatch.org/){:target="_blank"}
-- [Climate stations](https://www.ncei.noaa.gov/access/search/data-search/daily-summaries){:target="_blank"}
+- <a href="https://datasets.wri.org/dataset/540dcf46-f287-47ac-985d-269b04bea4c6" target="_blank" rel="noopener noreferrer">Global Power Plant Database</a>
+- <a href="https://www.hydrosheds.org/products" target="_blank" rel="noopener noreferrer">River networks / Lakes / Wetlands</a>
+- <a href="https://www.diva-gis.org/gdata" target="_blank" rel="noopener noreferrer">Roads and railroads</a>
+- <a href="https://www.globaldamwatch.org/" target="_blank" rel="noopener noreferrer">Dams and reservoirs</a>
+- <a href="https://www.ncei.noaa.gov/access/search/data-search/daily-summaries" target="_blank" rel="noopener noreferrer">Climate stations</a>
