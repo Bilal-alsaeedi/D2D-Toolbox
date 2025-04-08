@@ -25,7 +25,7 @@ Water infrastructure plays a vital role in sustaining communities, supporting ag
 
 <figure>
   <img src="../assets/Infra_example.png" alt="Cutzamala System Map">
-  <figcaption>Figure 1: Cutzamala System Map. Source: (Ramírez-Zierold et al., 2010)</figcaption>
+  <figcaption>Figure 2: Source: (Ramírez-Zierold et al., 2010)</figcaption>
 </figure>
 
 
@@ -35,3 +35,15 @@ Water infrastructure plays a vital role in sustaining communities, supporting ag
 - <a href="https://www.diva-gis.org/gdata" target="_blank" rel="noopener noreferrer">Roads and railroads</a>
 - <a href="https://www.globaldamwatch.org/" target="_blank" rel="noopener noreferrer">Dams and reservoirs</a>
 - <a href="https://www.ncei.noaa.gov/access/search/data-search/daily-summaries" target="_blank" rel="noopener noreferrer">Climate stations</a>
+
+## References
+
+- **Bertule, M., Lloyd, G. J., Korsgaard, L., Dalton, J., Welling, R., Barchiesi, S., ... & Cole, R.** (2014). *Green Infrastructure Guide for Water Management: Ecosystem-based management approaches for water-related infrastructure projects.* United Nations Environment Programme.
+
+- **Fabunmi, O. B., & Anyaeji, C.** (2020). *Classification of infrastructure and its for infrastructure delivery.* Public Private Partnerships in Nigeria.
+
+- **Michigan Association of Planning (M.A.P).** (2020). *Blue Green Infrastructure.* Michigan.
+
+- **Ramírez-Zierold, J. A., Merino-Ibarra, M., Monroy-Ríos, E., Olson, M., Castillo, F. S., Gallegos, M. E., & Vilaclara, G.** (2010). *Changing water, phosphorus and nitrogen budgets for Valle de Bravo reservoir, water supply for Mexico City Metropolitan Area.* Lake and Reservoir Management, 26(1), 23-34.
+
+- **Stip, C., Mao, Z., Bonzanigo, L., Browder, G., & Tracy, J.** (2019). *Water Infrastructure Resilience – Examples of Dams, Wastewater Treatment Plants, and Water Supply and Sanitation Systems.* Sector note for LIFELINES: The Resilient Infrastructure Opportunity, World Bank, Washington, D.C.
