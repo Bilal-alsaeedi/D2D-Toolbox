@@ -1,4 +1,3 @@
-title: About the D2D-Toolbox
 About the Toolbox
 
 1. Background

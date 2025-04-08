@@ -24,7 +24,7 @@ We have developed a learning unit on detecting land cover changes.
 ---
 
 ## 4. Exercise
-Please refer to the learning unit: <a href="https://th-koeln.sciebo.de/s/foyBF5jfpvDhDFM" target="_blank" rel="noopener noreferrer">Land Cover Change Detection</a>.
+Please refer to the learning unit: <a href="https://th-koeln.sciebo.de/s/YxyL9MJ7cvw1i6I" target="_blank" rel="noopener noreferrer">Land Cover Change Detection</a>.
 
 ---
 
