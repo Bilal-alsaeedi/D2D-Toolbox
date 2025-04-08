@@ -9,11 +9,78 @@ nav_order: 3
 # Hydrometeorology
 
 ### 1- Water Balance:
-The water balance is a fundamental hydrological tool that quantifies the movement and storage of water within a defined system (e.g., a catchment). It operates on the principle of mass conservation, ensuring all water inputs, outputs, and storage changes are accounted for.
+The water balance is a fundamental hydrological tool that quantifies the movement and storage of water within a defined system (e.g., a catchment). It operates on the principle of mass conservation, ensuring all water inputs, outputs, and storage changes are accounted for. , meaning that for a
+specific period of time (e.g., month, year or mean annual), the water inflows are equal to
+the water outflows plus or minus any change of storage within the specified hydrological
+unit (European Commission, 2015).
 
-$$  
-Inputs = Outputs \pm \frac{dS}{dt}  
-$$
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Balance Equation</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Water Balance Equations</h2>
+
+<p>The water balance principle can be represented in two forms:</p>
+
+<p>
+  1. General Form: <br>
+  \[
+  \text{Inputs} = \text{Outputs} \pm \frac{dS}{dt}
+  \]
+</p>
+
+<p>
+  2. Detailed Hydrological Form: <br>
+  \[
+  P = R + E \pm \frac{dS}{dt}
+  \]
+  Where:
+  <ul>
+      <li><strong>P</strong> = Precipitation: The total water received as rain, snow, sleet, etc.</li>
+      <li><strong>R</strong> = Runoff: Water that flows over the surface into streams, rivers, and lakes.</li>
+      <li><strong>E</strong> = Evapotranspiration: The sum of evaporation from the land surface plus transpiration from plants.</li>
+      <li><strong>\(\frac{dS}{dt}\)</strong> = Change in Storage: The rate of change in stored water, including surfaces such as wetlands, snowpacks, soils, and aquifers.</li>
+  </ul>
+</p>
+
+<p>These equations are fundamental in hydrology for assessing water availability and planning resources in various geographic and climatic contexts.</p>
+
+</body>
+</html>
+
+The simple water balance equation has four components:
+1.
+P , which refers to solid and liquid precipitation;
+2.
+R which consists of surface, subsurface, and groundwater runoff ( Rs
+Rsub and Rgw respectively);
+3.
+E , which can be decomposed into surface, interception, unsaturated
+zone, and transpiration ( Es Ei Eu and Et respectively); and
+4.
+d S d t , which can be decomposed into surface, interception, unsaturated
+zone, and groundwater changes ( d Ss d t , d Si d t , d Su d t , and d Sgw d t ,
+respectively).
+
 
 The water balance can be used to:
 •
@@ -26,7 +93,7 @@ Strengthen water management through evidence based decision making
 Forecast flow (related to infrastructural design)
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
