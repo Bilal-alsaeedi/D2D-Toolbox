@@ -13,8 +13,9 @@ These systems range from ancient structures like aqueducts and cisterns, which w
 
 Water infrastructure plays a vital role in sustaining communities, supporting agriculture, industry, and energy production, while also protecting against natural hazards like floods and droughts. Its efficient management is crucial for resilience in the face of climate change and growing water demand.
 
-![Water Infrastructure Diagram](/assets/infra1.PNG){:target="_blank"}
+![Water Infrastructure Diagram](/assets/infra1.png){:target="_blank"}
 
+![Toolbox Picture 3](/assets/toolboxpicture3.png)
 ## 2. Examples
 
 ### Cutzamala Water System – Mexico City
