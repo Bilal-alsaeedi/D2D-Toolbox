@@ -6,7 +6,7 @@ parent: Watershed Management
 nav_order: 2
 ---
 
-## 1. Background Hallo
+## 1. Background 
 Water infrastructure encompasses the systems and structures designed to manage water resources, ensuring supply, treatment, storage, and distribution for various needs. It also includes mechanisms for flood control, hydropower generation, and water-based transportation, such as canals.
 
 These systems range from ancient structures like aqueducts and cisterns, which were used to transport and store water, to modern facilities like desalination plants, wastewater treatment facilities, and hydroelectric power stations. Key components also include flood prevention measures (e.g., levees, floodgates) and stormwater management solutions (e.g., rain gardens, retention ponds).
