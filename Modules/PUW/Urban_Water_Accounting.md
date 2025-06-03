@@ -4,6 +4,9 @@ title: Urban Water Accounting
 permalink: /Urban_Water_Accounting/
 parent: PUW
 nav_order: 1
+nav_exclude: true
+search_exclude: true
+robots: noindex
 ---
 
 ![Banner]({{ site.baseurl }}/assets/UrbanWaterAccounting.png){: style="width:100%; height:auto;" }
