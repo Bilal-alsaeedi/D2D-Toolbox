@@ -32,8 +32,10 @@ remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 
 plugins:
-  #- jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-remote-theme # This is supported by GitHub Pages
+  - jekyll-seo-tag
+  #- jekyll-remote-theme
 
 # Navigation settings
 nav:
