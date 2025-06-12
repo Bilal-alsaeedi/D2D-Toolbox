@@ -32,7 +32,8 @@ remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
+  - jekyll-remote-theme
 
 # Navigation settings
 nav:
